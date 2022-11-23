@@ -1,0 +1,15 @@
+html {
+	background-position: top center; }
+body {
+  margin-left: 40px;
+  margin-right: 40px;
+  max-width: 940px;
+  margin: auto;
+  background-color: #18191C;
+  color: white;
+  font-family: Verdana;}
+a  {color:#09aaf2;}
+a:hover{color:#6f4fdd}
+blockquote {
+color: #6EFF52;
+}
